@@ -1,6 +1,6 @@
 LABEL SNGHOSTDOS
 MENU LABEL ^Symantec Norton Ghost 11.5 - DOS
-KERNEL pxelinux.cfg/roms/memdisk
+KERNEL boot/isolinux/memdisk
 INITRD er/plugins/ghostdos/ghostdos.ima
 TEXT HELP
                  Symantec Norton Ghost - DOS.
